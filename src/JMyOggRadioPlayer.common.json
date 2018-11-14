@@ -1,0 +1,2286 @@
+[
+{
+"url":"http://www.antenne.de/webradio/channels/top-40.m3u",
+"name":"Antenne Bayern Top40"
+},
+{
+"url":"http://www.antenne.de/webradio/channels/das-schlager-karussell.m3u",
+"name":"Antenne Bayern Partyschlager"
+},
+{
+"url":"http://www.antenne.de/webradio/channels/oldies-but-goldies.m3u",
+"name":"Antenne Bayern Oldies but Goldies"
+},
+{
+"url":"http://www.antenne.de/webradio/channels/80er-kulthits.m3u",
+"name":"Antenne Bayern 80er Kulthits"
+},
+{
+"url":"http://dradio.de/streaming/dlf.m3u",
+"name":"Deutschlandfunk"
+},
+{
+"url":"http://streams.ffh.de/ffhchannels/mp3/hqtop40.m3u",
+"name":"Hit Radio FFH Top 40"
+},
+{
+"url":"http://www.antenne.de/webradio/antenne.m3u",
+"name":"Antenne Bayern"
+},
+{
+"url":"http://www.rockantenne.de/webradio/rockantenne.m3u",
+"name":"Rockantenne"
+},
+{
+"url":"http://mp3-live.swr3.de/swr3_m.m3u",
+"name":"SWR3"
+},
+{
+"url":"http://streaming.radionomy.com:8000/Best80",
+"name":"Best 80"
+},
+{
+"url":"http://streaming02.sr-online.de/sr3oldiewelt.m3u",
+"name":"SR3 Oldiewelt"
+},
+{
+"url":"http://www.dradio.de/streaming/dkultur.m3u",
+"name":"DeutschlandRadio Kultur"
+},
+{
+"url":"http://www.antenne.de/webradio/channels/chillout.m3u",
+"name":"Antenne Bayern Chillout"
+},
+{
+"url":"http://sc1.netstreamer.net:8142/listen.pls",
+"name":"Radio Paloma"
+},
+{
+"url":"http://mp3-live.swr.de/swr2_m.m3u",
+"name":"SWR2"
+},
+{
+"url":"http://www.dradio.de/streaming/dlf_hq_ogg.m3u",
+"name":"Deutschlandfunk"
+},
+{
+"url":"http://www.rockantenne.de/webradio/channels/heavy-metal.m3u",
+"name":"Rock Antenne Heavy Metal"
+},
+{
+"url":"http://streamserver.funkhaus.info:80/listen.pls",
+"name":"MDR1 Radio Thueringen"
+},
+{
+"url":"http://stream.srg-ssr.ch/m/rsj/mp3_128",
+"name":"Radio Swiss Jazz neu"
+},
+{
+"url":"http://metafiles.gl-systemhaus.de/hr/hr3_2.m3u",
+"name":"HR3"
+},
+{
+"url":"http://www.dradio.de/streaming/dlf.m3u",
+"name":"Deutschlandfunk"
+},
+{
+"url":"http://www.wdr.de/wdrlive/media/wdr2.m3u",
+"name":"WDR2"
+},
+{
+"url":"http://live7.avf.ch:8000/ipmusic256",
+"name":"IP Music - MP3@256Kb/s"
+},
+{
+"url":"http://listen.radionomy.com/radio-cubana.m3u",
+"name":"Radio 100% Musica Cubana"
+},
+{
+"url":"http://www.kulturradio.de/live.m3u",
+"name":"RBB Kulturradio"
+},
+{
+"url":"http://streaming.radionomy.com:8000/Barock-Music",
+"name":"BarockMusic"
+},
+{
+"url":"http://mp3-live.swr.de/swr1rp_m.m3u",
+"name":"SWR1 RP"
+},
+{
+"url":"http://streams.planetradio.de/plrchannels/mp3/hqdjbeats.m3u",
+"name":"Planet - dj beats"
+},
+{
+"url":"http://http://deutschrap-high.rautemusik.fm/",
+"name":"SKY.fm Top Hits"
+},
+{
+"url":"http://stream.laut.fm/1000schlager.m3u",
+"name":"1000Schlager"
+},
+{
+"url":"http://listen.technobase.fm/oggvorbis.pls",
+"name":"Technobase"
+},
+{
+"url":"http://mp3.wunschradio.de/wunschradio-80er.mp3",
+"name":"Wunschradio 80er"
+},
+{
+"url":"http://www.wdr.de/wdrlive/media/wdr4.m3u",
+"name":"WDR4"
+},
+{
+"url":"http://live9.avf.ch:8000/ipmusic128",
+"name":"IP Music"
+},
+{
+"url":"http://stream.laut.fm/bluesclub",
+"name":"Blues Rock Radio"
+},
+{
+"url":"http://uplink.duplexfx.com:8024/",
+"name":"All HipHop - The Box"
+},
+{
+"url":"http://www.rockantenne.de/webradio/channels/alternative.m3u",
+"name":"Rock Antenne Alternative"
+},
+{
+"url":"http://www.wdr.de/wdrlive/media/wdr5.m3u",
+"name":"WDR5"
+},
+{
+"url":"http://srv04.bigstreams.de/bigfm-mp3-64.m3u",
+"name":"Big FM"
+},
+{
+"url":"http://stream.laut.fm/the-beat-goes-on",
+"name":"Laut FM"
+},
+{
+"url":"http://www.rockantenne.de/webradio/channels/classic-perlen.m3u",
+"name":"Rock Antenne Classic Perlen"
+},
+{
+"url":"http://www.mixnation.de/listen.pls",
+"name":"MixNation"
+},
+{
+"url":"http://streams.ffh.de/radioffh/mp3/hqlivestream.m3u",
+"name":"Hit Radio FFH"
+},
+{
+"url":"http://www.181.fm/winamp.pls?station=181-hardrock&style=&description=The Rock! (Hard Rock)&file=181-hardrock.pls",
+"name":"181.fm The Rock! (Hard Rock)"
+},
+{
+"url":"http://rs5.stream24.net:8000/stream.m3u",
+"name":"Charivari Partyhitmix"
+},
+{
+"url":"http://www.antenne.de/webradio/channels/classic-rock-live.m3u",
+"name":"Antenne Bayern Classic Rock Live"
+},
+{
+"url":"http://channels.webradio.antenne.de/top-40",
+"name":"Antenne Bayern Top 40"
+},
+{
+"url":"http://streams.ffh.de/ffhchannels/mp3/hqdeutsch.m3u",
+"name":"Hit Radio FFH Deutsch Pur"
+},
+{
+"url":"http://uplink.duplexfx.com:8054/",
+"name":"HipHop & RnB"
+},
+{
+"url":"http://mp3.top100.wunschradio.de/wunschradio-top100.mp3",
+"name":"Wunschradio Top100"
+},
+{
+"url":"http://listen.radionomy.com/azur-blues.m3u",
+"name":"Azur BLUES "
+},
+{
+"url":"http://www.antenne.de/webradio/channels/lovesongs.m3u",
+"name":"Antenne Bayern Lovesongs"
+},
+{
+"url":"http://mp3.schlager.wunschradio.de/wunschradio-schlager.mp3",
+"name":"Wunschradio Schlager"
+},
+{
+"url":"http://www.jazzradio.net/docs/stream/jazzradio.pls",
+"name":"JazzRadio 101.9"
+},
+{
+"url":"http://internetradio.salue.de:8000/classicrock.mp3",
+"name":"Classic Rock Radio"
+},
+{
+"url":"http://http://stream.laut.fm/treffpunkt-evergreen",
+"name":"oldies"
+},
+{
+"url":"http://212.77.178.166/listen.pls",
+"name":"Radio Heimatmelodie"
+},
+{
+"url":"http://www.byte.fm/stream/bytefm.m3u",
+"name":"Byte.FM"
+},
+{
+"url":"http://mp3.wunschradio.de/wunschradio-70er.mp3",
+"name":"Wunschradio 70er"
+},
+{
+"url":"http://metafiles.gl-systemhaus.de/hr/hr4_2.m3u",
+"name":"HR4"
+},
+{
+"url":"http://statslive.infomaniak.ch/playlist/energygerman/energygerman-high.mp3/playlist.pls",
+"name":"Energy German - Zürich"
+},
+{
+"url":"http://fritz.de/livemp3",
+"name":"Fritz"
+},
+{
+"url":"http://metafiles.gl-systemhaus.de/hr/hr2_2.m3u",
+"name":"HR2"
+},
+{
+"url":"http://www.munichshardesthits.com/ondem/mp3_high.pls",
+"name":"Munich's Hardest Hits / Germanys No.1 Rock Station im Internet"
+},
+{
+"url":"http://streams.radiobob.de/bob-kuschelrock/mp3-192/streams.radiobob.de/",
+"name":"BOBs Kuschelrock"
+},
+{
+"url":"http://listen.radionomy.com/chillectro-lounge.m3u",
+"name":"chillectro lounge, Sit back and relax"
+},
+{
+"url":"http://www.antenne.de/webradio/channels/event.m3u",
+"name":"Antenne Bayern Weihnachten"
+},
+{
+"url":"http://mp3-live.dasding.de/dasding_m.m3u",
+"name":"DasDing"
+},
+{
+"url":"http://50.7.129.122:8433",
+"name":"Flower Power Radio"
+},
+{
+"url":"http://radio.russianfm.de:8000",
+"name":"russianfm.de"
+},
+{
+"url":"http://streams.ffh.de/ffhchannels/mp3/hqspezial.m3u",
+"name":"Hit Radio FFH Die 90er"
+},
+{
+"url":"http://mp3-live.swr.de/swr4rp_m.m3u",
+"name":"SWR4 RP"
+},
+{
+"url":"http://streams.ffh.de/ffhchannels/mp3/hq80er.m3u",
+"name":"Hit Radio FFH Die 80er"
+},
+{
+"url":"http://www.listenlive.eu/berliner.m3u",
+"name":"Berliner Rundfunk"
+},
+{
+"url":"http://mp3-live.swr.de/swr1bw_m.m3u",
+"name":"SWR1BW"
+},
+{
+"url":"http://streaming02.sr-online.de/sr3schlagerwelt.m3u",
+"name":"SR3 Schlagerwelt"
+},
+{
+"url":"http://mp3-live.dasding.de/dasdingraka03_m.m3u",
+"name":"DasDing Plattenleger"
+},
+{
+"url":"http://streams.ffh.de/ffhchannels/mp3/hqeurodance.m3u",
+"name":"Hit Radio FFH Eurodance"
+},
+{
+"url":"http://streams.ffh.de/ffhchannels/mp3/hqschlager.m3u",
+"name":"Hit Radio FFH Schlagerkult"
+},
+{
+"url":"http://listen.radionomy.com/1000Oldies.m3u",
+"name":"1000 Oldies.com"
+},
+{
+"url":"http://streaming01.sr-online.de/sr2_2.m3u",
+"name":"SR2 Kultradio"
+},
+{
+"url":"http://www.dradio.de/streaming/dradiowissen_hq_ogg.m3u",
+"name":"Deutschlandradio Wissen"
+},
+{
+"url":"http://www.radioberlin.de/live.m3u",
+"name":"RBB radioBerlin 88.8"
+},
+{
+"url":"http://streams.harmonyfm.de/harmonyfm/mp3/hqlivestream.m3u",
+"name":"Harmony.fmsadf"
+},
+{
+"url":"http://213.193.109.103:8080",
+"name":"Hoffnung"
+},
+{
+"url":"http://www.radioeins.de/live.m3u",
+"name":"RBB Radio Eins"
+},
+{
+"url":"http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
+"name":"jazz radio blues lyon"
+},
+{
+"url":"http://www.sputnik.de/m3u/rock.hi.m3u",
+"name":"MDR SPUTNIK Rock Channel"
+},
+{
+"url":"http://217.151.152.245/bigfm-mp3-96",
+"name":"BigFM"
+},
+{
+"url":"http://metafiles.gl-systemhaus.de/hr/hr1_2.m3u",
+"name":"HR1"
+},
+{
+"url":"http://shoutcast.rtl.it:3010/",
+"name":"Radio RTL"
+},
+{
+"url":"http://mp3.wunschradio.de/wunschradio-60er.mp3",
+"name":"Wunschradio 60er"
+},
+{
+"url":"http://laut.fm/karneval",
+"name":"KARNEVAL"
+},
+{
+"url":"http://statslive.infomaniak.ch/playlist/energybern/energybern-high.mp3/playlist.pls",
+"name":"ENERGY BERN"
+},
+{
+"url":"http://laut.fm/sport-fm",
+"name":""
+},
+{
+"url":"http://players.creacast.com/creacast/hitradio_ohr/playlist.pls",
+"name":"Hitradio Ohr"
+},
+{
+"url":"http://streams.ffh.de/ffhchannels/mp3/hqsoundtrack.m3u",
+"name":"Hit Radio FFH Soundtracks"
+},
+{
+"url":"http://www.charivari.de/stream1.pls",
+"name":"Charivari 95.5"
+},
+{
+"url":"http://metafiles.gl-systemhaus.de/hr/youfm_club.m3u",
+"name":"HR You FM Club Musicstream"
+},
+{
+"url":"http://streamplus28.leonex.de:17992",
+"name":"Bayerwaldradio"
+},
+{
+"url":"http://streamsrus.com:80/listen/1CFM11110.pls",
+"name":"LadiesOfCountry"
+},
+{
+"url":"http://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u",
+"name":"NDR 2"
+},
+{
+"url":"http://str31.creacast.com/hitradio_ohr_thema1.m3u",
+"name":"Schwarzwald Radio"
+},
+{
+"url":"http://streams.planetradio.de/plrchannels/mp3/hqblackbeats.m3u",
+"name":"Planet - black beats"
+},
+{
+"url":"http://onair.krone.at/kronehit.mp3",
+"name":"Kronehit"
+},
+{
+"url":"http://streams.radiobob.de/bob-live/mp3-128/og-audio-tag",
+"name":"radioBob"
+},
+{
+"url":"http://mp3.wunschradio.de/wunschradio-90er.mp3",
+"name":"Wunschradio 90er"
+},
+{
+"url":"http://webradio.radio-seefunk.de:8000/listen.pls",
+"name":"Radio Seefunk"
+},
+{
+"url":"http://www.antenne.de/webradio/channels/hits-fuer-kids.m3u",
+"name":"Antenne Bayern Hits fuer Kids"
+},
+{
+"url":"http://streams.ffh.de/ffhchannels/mp3/hqrock.m3u",
+"name":"Hit Radio FFH Rock"
+},
+{
+"url":"http://listen.clubtime.fm/tunein-mp3-pls",
+"name":"# TB clubtime.fm (club? ;)"
+},
+{
+"url":"http://players.creacast.com/creacast/topmusic/playlist.m3u",
+"name":"Topmusic"
+},
+{
+"url":"http://metafiles.gl-systemhaus.de/hr/youfm_2.m3u",
+"name":"HR You FM"
+},
+{
+"url":"http://www.radioswissjazz.ch/live/mp3.m3u",
+"name":"RadioSwissJazz.ch"
+},
+{
+"url":"http://mp3stream1.apasf.apa.at:8000",
+"name":"fm4@orf.at"
+},
+{
+"url":"http://tuner.classical102.com/listen.pls",
+"name":"Classical 102"
+},
+{
+"url":"http://listen.technobase.fm/tunein-aacplus-pls",
+"name":"Technobasefm Deutschland "
+},
+{
+"url":"http://stream.laut.fm:80/jazzloft",
+"name":"Jazzloft"
+},
+{
+"url":"http://www.sputnik.de/m3u/club.hi.m3u",
+"name":"MDR SPUTNIK Club Channel"
+},
+{
+"url":"http://listen.pioneerdjradio.com:8550/",
+"name":"Pioneer DJ Radio"
+},
+{
+"url":"http://www.977music.com/tunein/web/classicrock.asx",
+"name":".977 Classic Rock"
+},
+{
+"url":"http://streams.planetradio.de/planetradio/mp3/hqlivestream.m3u",
+"name":"Planet Radio"
+},
+{
+"url":"http://www.wdr.de/wdrlive/media/einslive.m3u",
+"name":"1LIVE"
+},
+{
+"url":"http://evans.hochschulradio.rwth-aachen.de:8000/hoeren/high.m3u",
+"name":"Hochschulradio Aachen"
+},
+{
+"url":"http://c13014-l.i.core.cdn.streamfarm.net/13014bundestag/live/3777parlamentsradio/live_de_128.mp3",
+"name":"Bundestag (nur Ton)"
+},
+{
+"url":"http://lyd.nrk.no/nrk_radio_klassisk_mp3_h",
+"name":"NRK Klassisk"
+},
+{
+"url":"http://rockradio.de:8090",
+"name":"Radio Rockradio"
+},
+{
+"url":"http://stream.laut.fm/karneval",
+"name":"Schlger , Party, Karneval"
+},
+{
+"url":"http://www.celticmusicradio.net/cmr/celtic_live.m3u",
+"name":"Celtic Music Radio"
+},
+{
+"url":"http://metal-only.blitz-stream.de/listen.m3u",
+"name":"Metal-only.de"
+},
+{
+"url":"http://www.surfmusik.de/m3u/radio-32-goldies,1358.m3u",
+"name":"Radio 32 Goldies"
+},
+{
+"url":"http://72.13.82.82:5100/",
+"name":"BellyUo4Blues"
+},
+{
+"url":"http://mp3.wunschradio.de/wunschradio-2000er.mp3",
+"name":"Wunschradio 2000er"
+},
+{
+"url":"http://mp3.dance.wunschradio.de/wunschradio-dance.mp3",
+"name":"Wunschradio Dance"
+},
+{
+"url":"http://mp3.wunschradio.de/wunschradio.mp3",
+"name":"Wunschradio"
+},
+{
+"url":"http://relay1.hirschmilch.de:5000/psytrance.mp3",
+"name":"hirschmilch-psytrance"
+},
+{
+"url":"http://listen.radionomy.com/azur-jazz.m3u",
+"name":"Azur JAZZ"
+},
+{
+"url":"http://stream.laut.fm:80/back_in_time",
+"name":"back in time 70"
+},
+{
+"url":"http://mp3-live.swr.de/swr4bw_m.m3u",
+"name":"SWR4 BW"
+},
+{
+"url":"http://www.galaxyansbach.de:8000/live.m3u",
+"name":"Radio Galaxy 105.8"
+},
+{
+"url":"http://www.sputnik.de/m3u/popkult.hi.m3u",
+"name":"MDR SPUTNIK Popcult Channel"
+},
+{
+"url":"http://streams.br.de/bayern1fran_2.m3u",
+"name":"Bayern 1 Oberfranken"
+},
+{
+"url":"http://streams.radiobob.de/bob-deutsch/mp3-192/streams.radiobob.de/",
+"name":"BOBs Deutsch Rock"
+},
+{
+"url":"http://nl1.streamhosting.ch/listen.pls",
+"name":"Lounge Radio"
+},
+{
+"url":"http://stream.hoerradar.de/rsh128",
+"name":"Radio Schleswig-Holstein"
+},
+{
+"url":"http://uk3-vn.mixstream.net:8004",
+"name":"MjTunes Radio"
+},
+{
+"url":"http://streaming02.sr-online.de/sr1klassiker.m3u",
+"name":"SR1 Klassiker"
+},
+{
+"url":"http://stream.radio-unicc.de:8000/unicc_hq.mp3",
+"name":"Uni Radio Chemnitz"
+},
+{
+"url":"http://listen.radionomy.com/ambiance-lounge.m3u",
+"name":"Ambiance Lounge"
+},
+{
+"url":"http://http://metafiles.gl-systemhaus.de/hr/hr1_2.m3u",
+"name":"HR1"
+},
+{
+"url":"http://stream.laut.fm:80/bluesclub",
+"name":"Bluesclub"
+},
+{
+"url":"http://live96.106acht.de/listen.pls",
+"name":"106acht Rock & Pop alsterradio"
+},
+{
+"url":"http://www.byte.fm/stream/bytefm.pls",
+"name":"Byte FM"
+},
+{
+"url":"http://mp3channels.webradio.rockantenne.de/soft-rock",
+"name":"Rockantenne Soft-Rock"
+},
+{
+"url":"http://radiofg.impek.com/fgd",
+"name":"FG Deep Dance"
+},
+{
+"url":"http://mp3stream7.apasf.apa.at:8000",
+"name":"Hitradio Ö3 (.at)"
+},
+{
+"url":"http://streams.planetradio.de/plrchannels/mp3/hqnightwax.m3u",
+"name":"Planet - nightwax"
+},
+{
+"url":"http://www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u",
+"name":"NDR Kultur als mp3 - Versuch 2"
+},
+{
+"url":"http://streams.rsa-sachsen.de/rsa-live/mp3-128/mediaplayerrsa",
+"name":"r.sa Sachsen"
+},
+{
+"url":"http://listen.radionomy.com/jamaican-roots-radio",
+"name":"Jamaican Roots Radio"
+},
+{
+"url":"http://listen.radionomy.com/the-buffalo.m3u",
+"name":"The Buffalo"
+},
+{
+"url":"http://inforadio.de/livemp3",
+"name":"Inforadio"
+},
+{
+"url":"http://www.top100station.de/switch/vtuner.pls",
+"name":"Top 100 Station Berlin"
+},
+{
+"url":"http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3",
+"name":"jazzblackmusic"
+},
+{
+"url":"http://87.118.78.71:12000/listen.pls",
+"name":"Discofox FM"
+},
+{
+"url":"http://streams.ffh.de/radioffh/aac/livestream.m3u",
+"name":"Hit Radio FFH Stream"
+},
+{
+"url":"http://mp3-live.dasding.de/dasdingraka01_m.m3u",
+"name":"DasDing Lautstark"
+},
+{
+"url":"http://sverigesradio.se/topsy/direkt/1603-hi-mp3.m3u",
+"name":"SR Klassisk"
+},
+{
+"url":"http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8068/listen.pls&t=.pls",
+"name":"181.FM - Old School Hip Hop & RNB"
+},
+{
+"url":"http://streaming01.sr-online.de/sr1_2.m3u",
+"name":"SR1 Europawelle"
+},
+{
+"url":"http://somafm.com/brfm.pls",
+"name":"Black Rock FM"
+},
+{
+"url":"http://www.burn-fm.de/live_mp3.m3u",
+"name":"BurnFM"
+},
+{
+"url":"http://www.deutschlandradio.dehttp://www.deutschlandradio.de/streaming/dkultur_hq_ogg.m3u",
+"name":"Deutschlandradio Kultur ogg"
+},
+{
+"url":"http://www.psytube.at:14120/listen.pls",
+"name":"PsyTube Minimal"
+},
+{
+"url":"http://www.digital-webstream.de/stream/10885.m3u",
+"name":"Radio Flensburg"
+},
+{
+"url":"http://uplink.181.fm:8064/",
+"name":"181.fm - Rock 181 (Active Rock)"
+},
+{
+"url":"http://streams.ffh.de/ffhchannels/mp3/hqlounge.m3u",
+"name":"Hit Radio FFH Lounge"
+},
+{
+"url":"http://laut.fm/rockandrollradio",
+"name":"laut.fm-rockandrollradio"
+},
+{
+"url":"http://streaming.radionomy.com/ABCDANCEHOUSE",
+"name":"ABC Dance - House"
+},
+{
+"url":"http://www.wdr.de/wdrlive/media/wdr2_dortmund.m3u",
+"name":"WDR2 Ruhrgebiet"
+},
+{
+"url":"http://streams.rsh.de/rsh-live/mp3-128/mediaplayerrsh",
+"name":"RSH"
+},
+{
+"url":"http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop16.m3u",
+"name":"NDR 2 Soundcheck Milestones"
+},
+{
+"url":"http://somafm.com/dronezone.pls",
+"name":"Drone Zone"
+},
+{
+"url":"http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop20.m3u",
+"name":"NDR Info Nachtclub"
+},
+{
+"url":"http://listen.radionomy.com/abc-disco-funk",
+"name":"ABCDISCOFUNK"
+},
+{
+"url":"http://www.sputnik.de/m3u/live.hi.m3u",
+"name":"MDR SPUTNIK OnAir Channel"
+},
+{
+"url":"http://streams.ir-media-tec.com/radioteddy.ogg",
+"name":"radio teddy"
+},
+{
+"url":"http://listen.cinemix.fr",
+"name":"Cinemix"
+},
+{
+"url":"http://streaming01.sr-online.de/unserding_2.m3u",
+"name":"103.7 UnserDing"
+},
+{
+"url":"http://streams.harmonyfm.de/harmonyfm/mp3/livestream.m3u",
+"name":"Radio Harmony.fg"
+},
+{
+"url":"http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u",
+"name":"NDR info"
+},
+{
+"url":"http://streaming.radio.rtl.fr/rtl-1-44-96",
+"name":"RTL"
+},
+{
+"url":"http://relay.181.fm:8052",
+"name":"90th Alternative"
+},
+{
+"url":"http://listen.radionomy.com/blacksmokeradio.m3u",
+"name":"blacksmokeradio rap french"
+},
+{
+"url":"http://streams.deltaradio.de/delta-alternative/mp3-128/mediaplayerdelta",
+"name":"Delta Radio"
+},
+{
+"url":"http://listen.technobase.fm/tunein-mp3-pls",
+"name":"# TB technobase.fm (techno)"
+},
+{
+"url":"http://canalflamenco.rtva.stream.flumotion.com/rtva/canalflamenco.mp3.m3u",
+"name":"Flamenco Radio"
+},
+{
+"url":"http://stream.antenne.com/charts/mp3-128/radioplayer",
+"name":"antenne charts"
+},
+{
+"url":"http://play.rcm-hosting.de/makeplaylist.php?ip=high.radiosuperoldie.com&port=8888&format=ASX",
+"name":"SuperOldieRadio"
+},
+{
+"url":"http://dl-ondemand.radiobremen.de/nordwestradio.m3u",
+"name":"NDR NordWestRadio"
+},
+{
+"url":"http://www.fritz.de/live.m3u",
+"name":"RBB Fritz"
+},
+{
+"url":"http://www.radiobielefeld.de/worx/mobile/stream.m3u",
+"name":"Lokalradio Bielefeld"
+},
+{
+"url":"http://stream.hoerradar.de/nora128",
+"name":"Radio NORA"
+},
+{
+"url":"http://stream.laut.fm/rockandrollradio",
+"name":"Laut.FM Rock'n'Roll"
+},
+{
+"url":"http://www.181.fm/stream/asx/181-reggae",
+"name":"Reggae Roots"
+},
+{
+"url":"http://listen.radionomy.com/allegro-lounge.m3u",
+"name":"Allegro Lounge"
+},
+{
+"url":"http://stream.laut.fm/kinderwelle",
+"name":"laut.fm.kinderwelle"
+},
+{
+"url":"http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop18.m3u",
+"name":"NDR 2 Soundcheck Neue Musik"
+},
+{
+"url":"http://mp3.ffh.de/radioffh/hqlivestream.mp3",
+"name":"Hit Radio FFH Stream"
+},
+{
+"url":"http://webradio.antennevorarlberg.at:80/schlagerkult",
+"name":"Antenne Vorarlberg Schlagerkult "
+},
+{
+"url":"http://www.radioparadise.com/musiclinks/rp_128aac.m3u",
+"name":"Radio Paradise"
+},
+{
+"url":"http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop21.m3u",
+"name":"NDR Rock"
+},
+{
+"url":"http://streams.ffh.de/radioffh/mp3/livestream.m3u",
+"name":"Hit Radio FFH"
+},
+{
+"url":"http://www.sputnik.de/m3u/black.hi.m3u",
+"name":"MDR SPUTNIK Black Channel"
+},
+{
+"url":"http://dd11422.kasserver.com:8010/listen.pls",
+"name":"Antenne Unna"
+},
+{
+"url":"http://relay1.hirschmilch.de:5000/progressive.mp3",
+"name":"hirschmilch-progressive"
+},
+{
+"url":"http://berlin.starfm.de/player/pls/classic_rock_pls_mp3.php",
+"name":"STAR FM Rock Classics"
+},
+{
+"url":"http://www.pulsfm.de/listen.pls",
+"name":"PulsFM Dance Radio"
+},
+{
+"url":"http://player.ffn.de/comedystream.mp3",
+"name":"ffn comedy"
+},
+{
+"url":"http://mp3stream3.apasf.apa.at:8000/listen.pls",
+"name":"ORFmp3"
+},
+{
+"url":"http://webradio.antennevorarlberg.at/oldies.m3u",
+"name":"Antenne Vorarlberg Oldies"
+},
+{
+"url":"http://www.surfmusik.de/m3u/i-love-2-dance,15782.m3u",
+"name":"I Love 2 Dance"
+},
+{
+"url":"http://mp3stream.radio-112.de:8080/listen.pls",
+"name":"112"
+},
+{
+"url":"http://stream.laut.fm/radio1920",
+"name":"Radio 1920"
+},
+{
+"url":"http://streams.01-ir-media-tec.com/bbradio.ogg.m3u",
+"name":"BB Radio"
+},
+{
+"url":"http://http://stream04.iloveradio.de/iloveradio1.mp3",
+"name":"I Love Radio (www.iloveradio.de)"
+},
+{
+"url":"http://stream.laut.fm/bestof2015",
+"name":"bestof2015"
+},
+{
+"url":"http://www.radionovosti.rs:443/radionovosti56s.mp3",
+"name":"Radio Novosti"
+},
+{
+"url":"http://www.4broadcast.de/galaxy/galaxyhigh.m3u",
+"name":"Radio Galaxy 107.9"
+},
+{
+"url":"http://rtlberlin.hoerradar.de/rtlberlin-live-mp3-128",
+"name":"RTL 104.6 Berlin"
+},
+{
+"url":"http://streaming01.sr-online.de/sr3_2.m3u",
+"name":"SR3 Saarlandwelle"
+},
+{
+"url":"http://player.ffn.de/peppermintstream.mp3",
+"name":"ffn peppermint FM"
+},
+{
+"url":"http://ogg.theradio.cc/",
+"name":"TheRadio.CC // Musik unter Creative Commons Lizenz"
+},
+{
+"url":"http://tuner.gayfm.de:80",
+"name":"Gayfm"
+},
+{
+"url":"http://listen.radionomy.com/radio-country-family.m3u",
+"name":"Country Family"
+},
+{
+"url":"http://listen.radionomy.com/alpenradio-rockin-",
+"name":"Alpenradio"
+},
+{
+"url":"http://www.antennebrandenburg.de/live.m3u",
+"name":"RBB Antenne Brandenburg"
+},
+{
+"url":"http://media-ice.musicradio.com/ClassicFMMP3.m3u",
+"name":"Classic FM"
+},
+{
+"url":"http://www.radiobremen.de/stream/live/bremenvier.m3u",
+"name":"Bremer Vier"
+},
+{
+"url":"http://listen.radionomy.com/ccd-acid-jazz.m3u",
+"name":"CC&D Acid Jazz"
+},
+{
+"url":"http://www.egofm.de/stream/192kb",
+"name":"egoFM"
+},
+{
+"url":"http://www.fluxfm.de/stream-berlin/",
+"name":"flux"
+},
+{
+"url":"http://webradio.radiof.de:8000/streamContentFormat",
+"name":"title"
+},
+{
+"url":"http://radio.hbr1.com:19800/ambient.ogg",
+"name":"HBR1.com - Dream Factory"
+},
+{
+"url":"http://www.sputnik.de/m3u/insomnia.hi.m3u",
+"name":"MDR SPUTNIK Insomnia Channel"
+},
+{
+"url":"http://broadcast.infomaniak.ch/jazzradio-high.mp3",
+"name":"Jazz Classic"
+},
+{
+"url":"http://energyzuerich.ice.infomaniak.ch/energyrock-high.mp3.m3u",
+"name":"Energy"
+},
+{
+"url":"http://streaming02.sr-online.de/sr1lounge.m3u",
+"name":"SR1 Lounge"
+},
+{
+"url":"http://streaming02.sr-online.de/sr2offbeat.m3u",
+"name":"SR2 Off-Beat"
+},
+{
+"url":"http://streams.ffh.de/ffhchannels/mp3/hqspezial1.m3u",
+"name":"Hit Radio FFH Dolce Vita"
+},
+{
+"url":"http://stream.laut.fm:80/skaworld",
+"name":"skaworld"
+},
+{
+"url":"http://stream.onestation.net/onestation-128.mp3",
+"name":"One Station"
+},
+{
+"url":"http://mp3-live.swr.de/swr2raka01_m.m3u",
+"name":"SWR2 Archivradio"
+},
+{
+"url":"http://stream.radio8.de:8000/live.m3u",
+"name":"Radio 8"
+},
+{
+"url":"http://listen.radionomy.com/boozik-jazzy.m3u",
+"name":"boozik-jazzy"
+},
+{
+"url":"http://www.radioflora.de/stream/live192.mp3",
+"name":"radio flora Hannover ska rock"
+},
+{
+"url":"http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop17.m3u",
+"name":"NDR 2 Soundcheck Musikszene Deutschland"
+},
+{
+"url":"http://streaming.radionomy.com/1MASTERHIP-HOP",
+"name":"1 Master Hip-Hop"
+},
+{
+"url":"http://schwanyde.streampanel.net:2199/tunein/schwanyde6er.pls",
+"name":"Schwany 6"
+},
+{
+"url":"http://stream.laut.fm/1000oldies",
+"name":"1000 Oldies"
+},
+{
+"url":"http://livestream.triquency.de:8000/live128.mp3.m3u",
+"name":"Radio Triquency"
+},
+{
+"url":"http://stream002.radio.hu/mr4.mp3",
+"name":"UngarRundfunkMinderheiten"
+},
+{
+"url":"http://listen.coretime.fm/tunein-mp3-pls",
+"name":"# TB coretime.fm (hardcore)"
+},
+{
+"url":"http://www.181.fm/stream/asx/181-90scountry",
+"name":"181 fm - 90's Country"
+},
+{
+"url":"http://stream.srg-ssr.ch/m/rsp/aacp_96",
+"name":"swissradio-pop"
+},
+{
+"url":"http://www.inforadio.de/live.m3u",
+"name":"RBB InfoRadio"
+},
+{
+"url":"http://metafiles.gl-systemhaus.de/hr/hrinfo_2.m3u",
+"name":"hr-info"
+},
+{
+"url":"http://httpmedia.radiobremen.de/nordwestradio.m3u",
+"name":"Nordwestradio"
+},
+{
+"url":"http://stream.laut.fm/sport-fm",
+"name":""
+},
+{
+"url":"http://www.sputnik.de/m3u/soundcheck.hi.m3u",
+"name":"MDR SPUTNIK Soundcheck Channel"
+},
+{
+"url":"http://listen.radionomy.com/abalone.m3u",
+"name":"Abalone"
+},
+{
+"url":"http://wma08.fluidstream.net:4610/",
+"name":"Radio KISS KISS"
+},
+{
+"url":"http://streaming.radionomy.com/Strict-Tempo-Dance-Music",
+"name":"Ballroommusic "
+},
+{
+"url":"http://www.181.fm/stream/asx/181-salsa",
+"name":"Salsa"
+},
+{
+"url":"http://radiofg.impek.com/fg6",
+"name":"FG CLUB"
+},
+{
+"url":"http://www.wdr.de/wdrlive/media/wdr2_bielefeld.m3u",
+"name":"WDR2 Ostwestfalen-Lippe"
+},
+{
+"url":"http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop5.m3u",
+"name":"N-JOY Soundfiles Alternative"
+},
+{
+"url":"http://somafm.com/poptron.pls",
+"name":"PopTron"
+},
+{
+"url":"http://www.liveireland.com/live.pls",
+"name":"Live Ireland Channel 1"
+},
+{
+"url":"http://stream.antenne.com/charts/mp3-128/stream.antenne.com/play.m3u",
+"name":"antennecharts"
+},
+{
+"url":"http://server.powerstream.de:30846/listen.pls",
+"name":"RMN powerstream"
+},
+{
+"url":"http://www.dradio.de/streaming/dradiowissen.m3u",
+"name":"DRadio Wissen"
+},
+{
+"url":"http://listen.radionomy.com/tunisie-24-zen.m3u",
+"name":"Radio Tunisie 24 Zen"
+},
+{
+"url":"http://stream.fsk-hh.org:8000/fsk.ogg",
+"name":"radio fsk hamburg"
+},
+{
+"url":"http://www.rockradio1.com/winamplink.pls",
+"name":"RockRadio1.Com - Classic Hard Rock and Heavy Metal Mix, 24/7 Live Requests / www.rockradio1.com"
+},
+{
+"url":"http://broadcast.infomaniak.net:80/radioclassique-high.mp3",
+"name":"Radio Classique"
+},
+{
+"url":"http://streaming.radio.rtl.fr/rtl-1-44-128",
+"name":"RTL"
+},
+{
+"url":"http://streams.radiobob.de/bob-80srock/mp3-192/streams.radiobob.de/",
+"name":"BOBs 80er Rock"
+},
+{
+"url":"http://radiofg.impek.com/fg",
+"name":"FG Radio 98.2 FM"
+},
+{
+"url":"http://stream2.radio-northsea.de:7000",
+"name":"radio northsea london"
+},
+{
+"url":"http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop15.m3u",
+"name":"NDR 2 Soundcheck Live "
+},
+{
+"url":"http://www.distler-tontechnik.de/Radio-Z-Live.m3u",
+"name":"Radio Z"
+},
+{
+"url":"http://rheinwelle.s2.onlinestream.de/listen1.m3u",
+"name":"Radio Rheinwelle"
+},
+{
+"url":"http://listen.radionomy.com/beejazzy.m3u",
+"name":"beejazzy"
+},
+{
+"url":"http://stream.laut.fm/indiegoestohollywood.m3u",
+"name":"indie "
+},
+{
+"url":"http://listen.hardbase.fm/tunein-mp3-pls",
+"name":"# TB hardbase.fm (hardstyle)"
+},
+{
+"url":"http://www.181.fm/stream/asx/181-kickincountry",
+"name":"181 fm - Kickin' Country"
+},
+{
+"url":"http://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
+"name":"Radio Latina"
+},
+{
+"url":"http://http://62.138.147.36/angelsfox-radio.mp3",
+"name":"angelsfox-radio"
+},
+{
+"url":"http://listen.radionomy.com/bolz-radio.m3u",
+"name":"Bolz Radio"
+},
+{
+"url":"http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop19.m3u",
+"name":"NDR Info Jazz Nacht"
+},
+{
+"url":"http://stream2.laut.fm/skaworld",
+"name":"skaworld"
+},
+{
+"url":"http://cinemix.us/cine.asx",
+"name":"CINEMIX"
+},
+{
+"url":"http://uplink.duplexfx.com:8030/",
+"name":"181.fm - the eagle (classic rock)"
+},
+{
+"url":"http://streaming.radionomy.com/DRIVE.m3u",
+"name":"DRIVE Radio - Back To The 80's - Synthwave, RetroWave, Vaporwave, Bandcamp"
+},
+{
+"url":"http://mp3-live.dasding.de/dasdingraka02_m.m3u",
+"name":"DasDing Sprechstunde"
+},
+{
+"url":"http://listen.housetime.fm/tunein-mp3-pls",
+"name":"# TB housetime.fm (house)"
+},
+{
+"url":"https://laut.fm/1000goldschlager",
+"name":"1000 Goldschlager"
+},
+{
+"url":"http://radio2day.ip-streaming.net/radio2day.m3u",
+"name":"Radio 2Day"
+},
+{
+"url":"http://abc.net.au/res/streaming/audio/mp3/local_brisbane.pls",
+"name":"612 ABC Brisbane (Australia)"
+},
+{
+"url":"http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+"name":"BBC World Service"
+},
+{
+"url":"http://www.181.fm/stream/asx/181-highway",
+"name":"181 fm - Highway 181"
+},
+{
+"url":"http://stream.104.6rtl.com/rtl-event/mp3-128/RadioDE",
+"name":"RTL_Xmas"
+},
+{
+"url":"http://streams.radiobob.de/bob-rockhits/mp3-192/streams.radiobob.de/",
+"name":"BOBs Rock Hits"
+},
+{
+"url":"http://8.38.78.173:8045/;m3u ",
+"name":"Audiophile Barock"
+},
+{
+"url":"http://4broadcast.de/radioin.m3u",
+"name":"Radio IN"
+},
+{
+"url":"http://www.sleepbot.com/ambience/cgi/listen.cgi/listen.pls",
+"name":"Sleepbot"
+},
+{
+"url":"http://stream.srg-ssr.ch/drs4news/mp3_128.m3u",
+"name":"DRS4 News"
+},
+{
+"url":"http://live96.917xfm.de/listen.pls",
+"name":"917xfm"
+},
+{
+"url":"http://www.ndr.de/resources/metadaten/audio/m3u/ndrloop31.m3u",
+"name":"NDR Info Play Jazz"
+},
+{
+"url":"http://listen.trancebase.fm/tunein-mp3-pls",
+"name":"# TB trancebase.fm (trance)"
+},
+{
+"url":"http://www.181.fm/stream/asx/181-realcountry",
+"name":"181 fm - Real Country"
+},
+{
+"url":"http://live-icy.gss.dr.dk:8000/A/A04H.mp3.m3u",
+"name":"Klassik_Danmark"
+},
+{
+"url":"http://stream.srg-ssr.ch/drs1/mp3_128.m3u",
+"name":"SRF1 (CH)"
+},
+{
+"url":"http://listen.radionomy.com/smooth-riviera.m3u",
+"name":"SMOOTHRIVIERA"
+},
+{
+"url":"http://listen.radionomy.com/radio-mozart",
+"name":"Radio Mozart (Marseille)"
+},
+{
+"url":"http://radio.lagoon.nc/nrj",
+"name":"NRJ Nouvelle-Calédonie"
+},
+{
+"url":"http://somafm.com/indiepop.pls",
+"name":"Indie Pop Rocks!"
+},
+{
+"url":"http://webradio.antennevorarlberg.at/lounge.m3u",
+"name":"Antenne Vorarlberg louge"
+},
+{
+"url":"http://mp3stream8.apasf.apa.at:8000/",
+"name":"Radio Niederösterreich"
+},
+{
+"url":"http://www.surfmusik.de/m3u/iloveradio,7305.m3u",
+"name":"I Love 2 Dance"
+},
+{
+"url":"http://streams.radiobob.de/bob-bestofrock/mp3-192/streams.radiobob.de/",
+"name":"BOBs Best of Rock"
+},
+{
+"url":"http://radiostream.de/stream/36525.m3u",
+"name":"Radio multicult2.0"
+},
+{
+"url":"http://realserver3.hdm-stuttgart.de:8080/horads.m3u",
+"name":"HoRadS 99.2 FM"
+},
+{
+"url":"http://www.eldoradio.de/broadcast/192.pls",
+"name":"elDOradio93.0"
+},
+{
+"url":"http://mp3.wunschradio.de/musicalradio.mp3",
+"name":"Wunschradio Musical"
+},
+{
+"url":"http://www.popstop.eu/playlist.php?ip=musik.pop-stop.de:8050&mountpoint=&format=ASX",
+"name":"PopStop Radio"
+},
+{
+"url":"http://listen.radionomy.com/hermine-radio-celtic",
+"name":"Hermine Radio Celtic"
+},
+{
+"url":"http://server.rmnradio.de:8022/listen.pls",
+"name":"RMN Radio"
+},
+{
+"url":"http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/3212erf_96/live_de_96.mp3",
+"name":"ERF"
+},
+{
+"url":"http://streams.ffh.de/radioffh/mp3/livestream.mp3",
+"name":"FFH"
+},
+{
+"url":"http://ice.kultradio.fm:80/kult128.mp3",
+"name":"Kultradio.fm"
+},
+{
+"url":"http://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/",
+"name":"RADIO BOB! Classic Rock"
+},
+{
+"url":"http://streams.radiobob.de/bob-90srock/mp3-192/streams.radiobob.de/",
+"name":"BOBs 90er Rock"
+},
+{
+"url":"http://streams.radiobob.de/bob-blues/mp3-192/streams.radiobob.de/",
+"name":"BOBs Blues"
+},
+{
+"url":"http://rmnradio.powerstream.de:8022/listen.pls",
+"name":"RMN Radio"
+},
+{
+"url":"http://stream.sthoerfunk.de:7000/sthoerfunk.ogg.m3u",
+"name":"Radio StHoerfunk"
+},
+{
+"url":"http://somafm.com/sonicuniverse192.pls",
+"name":"Avantgarde"
+},
+{
+"url":"http://://stream.laut.fm/treffpunkt-evergreen",
+"name":""
+},
+{
+"url":"http://radiobzlive.rai.it/RAI_Suedtirol",
+"name":"RAI_Suedtirol"
+},
+{
+"url":"http://streaming.radio.funradio.fr:80/fun-1-44-96",
+"name":"Fun Radio"
+},
+{
+"url":"http://uplink.duplexfx.com:8014/listen.pls",
+"name":"181.FM - 80s Hairband Channel"
+},
+{
+"url":"http://streaming.radionomy.com/parisonedeeper",
+"name":"Paris One Deeper (House / Deep House)"
+},
+{
+"url":"https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8",
+"name":"ZDF"
+},
+{
+"url":"http://abc.net.au/res/streaming/audio/mp3/local_goldcoast.pls",
+"name":"ABC Coast FM (Australia - QLD - Gold Cost)"
+},
+{
+"url":"http://mp3.querfunk.de/qfhi",
+"name":"Querfunk"
+},
+{
+"url":"http://icecast.omroep.nl:80/3fm-alternative-mp3",
+"name":"Alternative"
+},
+{
+"url":"http://stream.srg-ssr.ch/rsc_it/mp3_128.m3u",
+"name":"Radio Svizzera Classica"
+},
+{
+"url":"http://live.radioct.de:8008/listen.pls",
+"name":"Radio c.t."
+},
+{
+"url":"http://broadcast.infomaniak.net:80/funradiobe-high.mp3",
+"name":"Fun Radio"
+},
+{
+"url":"http://www.181.fm/stream/asx/181-us181",
+"name":"181 fm - US 181"
+},
+{
+"url":"http://streaming.radio.rtl2.fr/rtl2-1-44-128",
+"name":"RTL2"
+},
+{
+"url":"http://107.155.111.234:18310/listen.pls",
+"name":"Big R Radio - 80s Metal FM"
+},
+{
+"url":"http://188.94.97.90/rockland.mp3",
+"name":"Rockland"
+},
+{
+"url":"http://www.surfmusik.de/m3u/hamburg-zwei-weihnachten,18493.m3u",
+"name":"Hamburg Zwei"
+},
+{
+"url":"http://laut.fm/treffpunkt-evergreen?autoplay=1",
+"name":"Treffpunkt Evergree"
+},
+{
+"url":"http://stream.radiowmw.de:8000/wmw128k",
+"name":"Radio WMW (Lokalradio Westmünsterland)"
+},
+{
+"url":"http://sverigesradio.se/topsy/direkt/201-hi-mp3.m3u",
+"name":"SR P4 Kalmar"
+},
+{
+"url":"http://streaming.radio.rtl2.fr:80/rtl2-1-44-96",
+"name":"RTL 2"
+},
+{
+"url":"http://74.208.71.58:8078/listen.pls",
+"name":"Radio Dismuke - 1920s & 1930s Popular Music & Jazz"
+},
+{
+"url":"http://dancewave.online/dance.mp3.m3u",
+"name":"Dance Wave!"
+},
+{
+"url":"http://stream.laut.fm/amorsaal",
+"name":""
+},
+{
+"url":"http://91.121.62.121:8100/listen.pls",
+"name":"Radio Pulsar"
+},
+{
+"url":"http://www.frequence3.fr/plugins/winamp192.m3u",
+"name":"Frequence 3"
+},
+{
+"url":"http://stream.laut.fm/80er.m3u",
+"name":"Laut.fm"
+},
+{
+"url":"http://http://play.rcm-hosting.de/makeplaylist.php?ip=high.radiosuperoldie.com&port=8888&format=ASX",
+"name":"Oldies_1"
+},
+{
+"url":"http://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u",
+"name":"SR P1"
+},
+{
+"url":"http://sverigesradio.se/topsy/direkt/163-hi-mp3.m3u",
+"name":"SR P2"
+},
+{
+"url":"http://sverigesradio.se/topsy/direkt/164-hi-mp3.m3u",
+"name":"SR P3"
+},
+{
+"url":"http://www.rockenfolie.com/players/ecouter.m3u",
+"name":"Rockenfolie Radio"
+},
+{
+"url":"http://streaming.radio.funradio.fr/fun-1-44-128",
+"name":"Fun Radio"
+},
+{
+"url":"http://radiofg.impek.com/fgc",
+"name":"FG CHIC"
+},
+{
+"url":"http://ttps://hr-a.akamaihd.net/audio/youfm/2017_12/171219171553_Songsecret_Weihnachten.mp3",
+"name":"youfm"
+},
+{
+"url":"http://streams.radiobob.de/bob-punk/mp3-192/streams.radiobob.de/",
+"name":"BOBs Punk"
+},
+{
+"url":"http://8.38.78.173:8093/;m3u",
+"name":"Audiophile Classic"
+},
+{
+"url":"http://opml.radiotime.com/Tune.ashx?id=s96570&formats=aac,ogg,mp3&partnerId=16&serial=977e69e221e1df668964da983ff434f5",
+"name":""
+},
+{
+"url":"http://listen.radionomy.com/alternativeradio.m3u",
+"name":"alternative rock funk hiphop african ethnic fusion "
+},
+{
+"url":"http://radio.hbr1.com:19800/tronic.ogg",
+"name":"hbr trobic"
+},
+{
+"url":"http://laut.fm/indiegoestohollywood",
+"name":"IndieGoesToHollywood"
+},
+{
+"url":"http://laut.fm/neon",
+"name":"lauf.fm NEON"
+},
+{
+"url":"http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
+"name":"WDR5"
+},
+{
+"url":"http://streaming.fueralle.org:8000/radiot.mp3",
+"name":"Radio T"
+},
+{
+"url":"http://radio.alpenmelodie.de:8500/",
+"name":"Alpenmelodie"
+},
+{
+"url":"http://91.250.76.18/top100station.mp3",
+"name":"surfMusic.de"
+},
+{
+"url":"http://streamserver.funkhaus.info:80",
+"name":"Radio 700, Schalger"
+},
+{
+"url":"http://www.allesblasmusik.de/radiod/allesblasmusik.m3u",
+"name":"Bayerwaldradio  - Blasmusik"
+},
+{
+"url":"http://www.181.fm/stream/asx/181-frontporch",
+"name":"181 FM Frontporch"
+},
+{
+"url":"http://broadcast.infomaniak.net:80/start-sud-high.mp3",
+"name":"Sud Radio"
+},
+{
+"url":"http://www.surfmusic.de/m3u/radio-kantipur-fm,13785.m3u",
+"name":"Kantipur FM"
+},
+{
+"url":"http://streaming.fueralle.org:8000/corax.mp3",
+"name":"Radio Corax (Halle)"
+},
+{
+"url":"http://streams.radiobob.de/bob-live/mp3-192/streams.radiobob.de/",
+"name":"RADIO BOB!"
+},
+{
+"url":"http://streams.radiobob.de/bob-acdc/mp3-192/streams.radiobob.de/",
+"name":"BOBs AC/DC Collection"
+},
+{
+"url":"http://streams.radiobob.de/bob-festival/mp3-192/streams.radiobob.de/",
+"name":"BOBs Festivalsommer"
+},
+{
+"url":"http://laut.fm/hip-hop-fm",
+"name":"test"
+},
+{
+"url":"http://live.antenne.at/ak",
+"name":"Antenne Kärnten"
+},
+{
+"url":"http://8.38.78.173:8240/stream",
+"name":"Audiophile Rock/Blues"
+},
+{
+"url":"http://digital.lounge.fm",
+"name":"LOUNGE.fm"
+},
+{
+"url":"http://www.dradio.de/streaming/dkultur_mq_ogg.m3u",
+"name":""
+},
+{
+"url":"http://www.schwarze-welle.de/play.m3u",
+"name":""
+},
+{
+"url":"http://www.radioyeye.com/ecoute.m3u",
+"name":"Radio Yé-Yé"
+},
+{
+"url":"http://somafm.com/covers.pls",
+"name":"Covers"
+},
+{
+"url":"http://mfm.ice.infomaniak.ch/mfm-128.mp3",
+"name":"MFM"
+},
+{
+"url":"http://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/",
+"name":"RADIO BOB! BOBs Harte Saite"
+},
+{
+"url":"http://streams.rsa-sachsen.de/maxis/mp3-192/mediaplayerrsa/",
+"name":"R.SA Maxis Maximal"
+},
+{
+"url":"http://stream.kissfm.de/kissfm/mp3-128/",
+"name":"Kiss FM"
+},
+{
+"url":"http://tuner.defjay.com:80/",
+"name":"Defjay USA 100% R&B"
+},
+{
+"url":"http://server3.digital-webstream.de:8235",
+"name":"lautradio"
+},
+{
+"url":"http://c14000-l.i.core.cdn.streamfarm.net/14000cina/live/2908erfpop/live_de_96.mp3",
+"name":"ERF-Pop"
+},
+{
+"url":"http://tuner.defjay.de:80",
+"name":"Defjay Germany 100% R&B"
+},
+{
+"url":"http://mp3channels.webradio.antenne.de/rockantenne",
+"name":"Rockantenne"
+},
+{
+"url":"http://ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3",
+"name":"N-joy"
+},
+{
+"url":"http://tango-velours.fr/radio.m3u",
+"name":"Radio Tango Velours"
+},
+{
+"url":"http://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/",
+"name":"RADIO BOB! BOBs Alternative Rock"
+},
+{
+"url":"http://85.25.43.55:80/hell.mp3",
+"name":"Star FM from Hell"
+},
+{
+"url":"https://www.youtube.com/watch?v=68NAZ7_gOnc",
+"name":"youtube"
+},
+{
+"url":"http://www.m2radio.fr/pls/m2rock_winamp.m3u",
+"name":"Nantes Radio M2 Rock"
+},
+{
+"url":"http://stream.rs2.de/rs2/mp3-128/internetradio/",
+"name":"94,3 rs2"
+},
+{
+"url":"http://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/",
+"name":"BOBs Christmas Rock"
+},
+{
+"url":"http://www.wdr.de/wdrlive/media/kiraka.m3u",
+"name":"Kiraka"
+},
+{
+"url":"http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3",
+"name":"WDR 2"
+},
+{
+"url":"http://www.surfmusic.de/m3u/wdr-2-ruhrgebiet,19447.m3u",
+"name":"WDE2_NEU"
+},
+{
+"url":"http://s1.sonicabroadcast.com:7005/stream",
+"name":"Ibiza Sonica Radio"
+},
+{
+"url":"http://stream02.ustream.ca:8000/cibl128.mp3",
+"name":"CIBL - Radio Montreal"
+},
+{
+"url":"http://stream02.ustream.ca:8000/ckrl128.mp3",
+"name":"CKRL 89.1 (Ville de Québec - Variétés)"
+},
+{
+"url":"http://somafm.com/bootliquor.pls",
+"name":"Boot Liquor"
+},
+{
+"url":"http://radio.lagoon.nc/rrb",
+"name":"RRB Nouvelle-Calédonie"
+},
+{
+"url":"http://stream.voxinox.ch/voxinox1h/listen.pls",
+"name":"VoxInox"
+},
+{
+"url":"http://http://stream.srg-ssr.ch/drs1/mp3_128.m3u",
+"name":""
+},
+{
+"url":"http://listen.radionomy.com/bob-marley",
+"name":""
+},
+{
+"url":"http://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/",
+"name":"BOBs Metal"
+},
+{
+"url":"http://streams.radiobob.de/bob-ironworkout/mp3-192/streams.radiobob.de/",
+"name":"BOBs Eisenworkout"
+},
+{
+"url":"http://chromaradio.com:8024/listen.pls",
+"name":"Chrome Nature sounds"
+},
+{
+"url":"http://somafm.com/suburbsofgoa.pls",
+"name":"Goa-Musik"
+},
+{
+"url":"http://streams.radiobob.de/bob-bestofrock/mp3-192/mediaplayer",
+"name":"Radio BOB! Best of Rock"
+},
+{
+"url":"http://mp3ad.egofm.c.nmdn.net/egofm_192/livestream.mp3?",
+"name":"egoFM"
+},
+{
+"url":"http://listen.shoutcast.com/deep-lounge",
+"name":"deep lounge"
+},
+{
+"url":"http://www.radioairlibre.be/radioairlibre.ogg.m3u",
+"name":"Radio Air Libre (Bruxelles)"
+},
+{
+"url":"http://provisioning.streamtheworld.com/pls/KDFCFM.pls",
+"name":"KDFC"
+},
+{
+"url":"http://live.francra.org:8000/radiocanut",
+"name":"Radiocanut Radio"
+},
+{
+"url":"http://lin2.ash.fast-serv.com:9022/listen.pls",
+"name":"AM 1710"
+},
+{
+"url":"http://streaming.radiomyway.co.nz/coast2.pls",
+"name":"Coast"
+},
+{
+"url":"http://streaming.fueralle.org:8000/radiot.mp3.m3u",
+"name":"Radio T - Chemnitz (Freies Radio)"
+},
+{
+"url":"https://laut.fm/oldiewelle-roding?autoplay=1",
+"name":"Oldiewelle Roding"
+},
+{
+"url":"http://stream.antenne.com/antenne-nds-90er/mp3-128/listenlive/play.m3u",
+"name":"Antenne Niedersachsen 90er"
+},
+{
+"url":"http://stream.ffn.de/ffn/mp3-192/",
+"name":"ffn"
+},
+{
+"url":"http://charthits-high.rautemusik.fm",
+"name":"chart_hits_raute"
+},
+{
+"url":"http://xltrax.com:8140/",
+"name":"CHNC (Gaspésie)"
+},
+{
+"url":"http://streams.radiobob.de/bob-grunge/mp3-192/streams.radiobob.de/",
+"name":"BOBs Grunge"
+},
+{
+"url":"http://streams.radiobob.de/bob-livemusic/mp3-192/streams.radiobob.de/",
+"name":"BOBs Live"
+},
+{
+"url":"http://62.75.236.27:80",
+"name":"Antenne Burg Stolberg"
+},
+{
+"url":"http://retro.dancewave.online/retrodance.mp3.m3u",
+"name":"Dance Wave Retro!"
+},
+{
+"url":"http://www.anders.nr67.de:8000/example1.ogg",
+"name":"Radio Dulikhel,freie Künstler und Live Aufnahmen 180kb/s"
+},
+{
+"url":"http://ibgr.001.oye.fm:8024",
+"name":"Ibiza Global Radio "
+},
+{
+"url":"http://stream01.warm.fm:9002/listen.pls",
+"name":"Warm (Liège)"
+},
+{
+"url":"http://www.ibiblio.org/wcpe/wcpe.pls",
+"name":"WCPE"
+},
+{
+"url":"http://www.alouette.fr/alouette.m3u",
+"name":"alouette fr"
+},
+{
+"url":"http://broadcast.infomaniak.net/radionova-high.mp3",
+"name":"Radio Nova"
+},
+{
+"url":"http://stream.voxinox.ch/voxinox2h/listen.pls",
+"name":"VoxInox 2"
+},
+{
+"url":"http://laut.fm/indieandmore",
+"name":"Indieandmore"
+},
+{
+"url":"http://http://stream.srg-ssr.ch/drs3/mp3_128.m3u",
+"name":""
+},
+{
+"url":"http://player.ffn.de/ffn.m3u",
+"name":""
+},
+{
+"url":"http://fliedertee.sheep-records.de/ft.pls",
+"name":""
+},
+{
+"url":"http://streams.radiobob.de/bob-singersong/mp3-192/streams.radiobob.de/",
+"name":"BOBs Singer & Songwriter"
+},
+{
+"url":"http://62.75.236.27:8000",
+"name":"Antenne Stolberg"
+},
+{
+"url":"http://stream.kissfm.de/kissfm/mp3-128",
+"name":""
+},
+{
+"url":"http://8.38.78.173:8156/;m3u ",
+"name":"Audiophile Xtreme"
+},
+{
+"url":"http://195.66.134.42:80/hd",
+"name":"deep house"
+},
+{
+"url":"http://blackbeats.fm/listen.asx",
+"name":"ztst"
+},
+{
+"url":"http://stream3.laut.fm/karneval",
+"name":"Karneval Radio, Koeln"
+},
+{
+"url":"http://8.38.78.173:8210/;m3u ",
+"name":"Audiophile Jazz"
+},
+{
+"url":"http://www.bayerwaldradio.de/radiod/bayerwaldradio.m3u",
+"name":"Bayerwaldradio, Volksmusik"
+},
+{
+"url":"http://streamplus50.leonex.de:36058",
+"name":"Arberwaldradio, Volksmusik"
+},
+{
+"url":"http://radiofg.impek.com/ufg",
+"name":"FG Underground"
+},
+{
+"url":"http://stream-dc1.radioparadise.com/rp_192m.ogg",
+"name":"Radio Paradise (192k, with song title data)"
+},
+{
+"url":"http://stream.saw-musikwelt.de/saw-rock/mp3-128/radioplayer/stream mp3?",
+"name":""
+},
+{
+"url":"http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-radioleverkusen/livestream.mp3",
+"name":"Radio Leverkusen"
+},
+{
+"url":"http://stream02.ustream.ca:8000/cjrg128.mp3",
+"name":"CJRG - Radio Gaspesie"
+},
+{
+"url":"http://http://laut.fm/indiegoestohollywood",
+"name":""
+},
+{
+"url":"http://http://fliedertee.sheep-records.de/ft.pls",
+"name":""
+},
+{
+"url":"http://62.75.236.27:8080/dfh",
+"name":"DFH Die Nummer 1"
+},
+{
+"url":"http://player.ffn.de/ffnstream.mp3",
+"name":"LOVERADIO FFN"
+},
+{
+"url":"http://8.38.78.173:8226/;m3u",
+"name":"Audiophile Lounge"
+},
+{
+"url":"http://sc1.netstreamer.net:8140",
+"name":"Radio Paloma Deutschland"
+},
+{
+"url":"http://srv05.bigstreams.de/bigfm-mp3-64.m3u",
+"name":"BigFM"
+},
+{
+"url":"http://streams.radiobob.de/bob-acdc/mp3-192/mediaplayer",
+"name":"Radio BOB! AC/DC"
+},
+{
+"url":"http://streams.radiobob.de/bob-90srock/mp3-192/mediaplayer",
+"name":"Radio BOB! 90s Rock"
+},
+{
+"url":"https://media.science360.gov/science360radio.pls",
+"name":"Science360 Radio, USA"
+},
+{
+"url":"http://stream.saw-musikwelt.de/saw-rock/mp3-128/radioplayer/stream mp3",
+"name":""
+},
+{
+"url":"http://streams.br.de/bayern2_2.m3u",
+"name":"Radio Bayern Hörspiele/Diskussionen"
+},
+{
+"url":"http://webradio.afkmax.de/afkmax.m3u",
+"name":"AFK MAX Nuernberg"
+},
+{
+"url":"http://stream.srg-ssr.ch/drs3/mp3_128.m3u",
+"name":"SRF 3"
+},
+{
+"url":"http://stream.absolutradio.de/hot/mp3-128/vtuner",
+"name":"Absolut Hot"
+},
+{
+"url":"https://wdr-1live-live.sslcast.addradio.de/wdr/1live/live/mp3/128/stream.mp3",
+"name":"live1"
+},
+{
+"url":"http://mp3.top100.wunschradio.de:80/wunschradio-top100.mp3",
+"name":"wunschradio-top100"
+},
+{
+"url":"http://rs13.stream24.org:9260",
+"name":"Radio Regentrude"
+},
+{
+"url":"http://188.94.97.91/radio21.mp3",
+"name":"radio21"
+},
+{
+"url":"http://www.radiox.de/media/radiox.m3u",
+"name":"Radio X"
+},
+{
+"url":"http://streams.echoesofbluemars.org:8000/bluemars.m3u",
+"name":"Echoes of Bluemars - Music For the Space Traveler"
+},
+{
+"url":"http://listen.teatime.fm/tunein-mp3-pls",
+"name":"TeaTime.fm"
+},
+{
+"url":"http://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer",
+"name":"Radio BOB! Classic Rock"
+},
+{
+"url":"http://streams.radiobob.de/bob-alternative/mp3-192/mediaplayer",
+"name":"Radio BOB! Alternative Rock"
+},
+{
+"url":"http://streams.radiobob.de/bob-hartesaite/mp3-192/mediaplayer",
+"name":"Radio BOB! Harte Saite"
+},
+{
+"url":"http://streams.radiobob.de/bob-rockhits/mp3-192/mediaplayer",
+"name":"Radio BOB! Rock Hits"
+},
+{
+"url":"http://streams.radiobob.de/bob-80srock/mp3-192/mediaplayer",
+"name":"Radio BOB! 80sRock"
+},
+{
+"url":"http://streams.radiobob.de/bob-metal/mp3-192/mediaplayer",
+"name":"Radio BOB! Metal"
+},
+{
+"url":"http://streams.radiobob.de/bob-ironworkout/mp3-192/mediaplayer",
+"name":"Radio BOB! Eisenworkout Hardrock"
+},
+{
+"url":"http://streams.radiobob.de/bob-grunge/mp3-192/mediaplayer",
+"name":"Radio BOB! Grunge"
+},
+{
+"url":"http://streams.radiobob.de/bob-livemusic/mp3-192/mediaplayer",
+"name":"Radio BOB! Liverock"
+},
+{
+"url":"http://radio.astronomy.fm:8111/live.m3u",
+"name":"Astronomy FM"
+},
+{
+"url":"http://stream.laut.fm/loungeradio",
+"name":"0 Stress Lounge Radio"
+},
+{
+"url":"http://stream.unrealhosting.hu:35110/live.mp3",
+"name":"Rádió Groove"
+},
+{
+"url":"http://mp3.radioherford.c.nmdn.net/ps-radioherford/livestream.mp3",
+"name":"Radio Herford"
+},
+{
+"url":"http://streams.echoesofbluemars.org:8000/cryosleep.m3u",
+"name":" Cryosleep - Zero Beat Guaranteed"
+},
+{
+"url":"http://8.38.78.173:8093/stream",
+"name":"Audiophile Classic"
+},
+{
+"url":"http://streams.radiobob.de/bob-deutsch/mp3-192/mediaplayer",
+"name":"Radio BOB! Deutschrock"
+},
+{
+"url":"http://streams.radiobob.de/bob-wacken/mp3-192/mediaplayer",
+"name":"Radio BOB! Wacken"
+},
+{
+"url":"http://streams.radiobob.de/bob-blues/mp3-192/mediaplayer",
+"name":"Radio BOB! Rockabilly"
+},
+{
+"url":"http://stream.antenne1.de/stream1/livestream.mp3",
+"name":"Antenne 1"
+},
+{
+"url":"http://playerservices.streamtheworld.com/api/livestream-redirect/WFEDAM.mp3",
+"name":"WFED, Federal News Radio, Washington DC, federalnewsradio.com "
+},
+{
+"url":"http://kommersant77.hostingradio.ru:8016/kommersant128.mp3",
+"name":"Kommersant FM "
+},
+{
+"url":"https://ndr-ndr1niedersachsen-hannover.sslcast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3",
+"name":"NDR 1 Niedersachsen"
+},
+{
+"url":"http://46.4.77.85:8002",
+"name":"Radio Altstadtwelle Koeln, Karnevalsmusik"
+},
+{
+"url":"http://server29785.streamplus.de/",
+"name":"ICE RADIO Waldkraiburg der Coole Gute Laune Internet Radio Sender"
+},
+{
+"url":"http://play.rcm-hosting.de/makeplaylist.php?ip=high.radiosuperoldie.com&port=8888&format=PLS",
+"name":"123"
+},
+{
+"url":"http://streams.radiobob.de/bob-singersong/mp3-192/mediaplayer",
+"name":"Radio BOB! Singer & Songwriter"
+},
+{
+"url":"http://streams.radiobob.de/queen/mp3-192/mediaplayer",
+"name":"Radio BOB! Queen"
+},
+{
+"url":"http://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer",
+"name":"Radio BOB! Christmas Rock"
+},
+{
+"url":"http://icecast.err.ee/raadio2.ogg.m3u",
+"name":"ERR Raadio 2"
+},
+{
+"url":"http://icecast.err.ee/klassikaraadio.ogg.m3u",
+"name":"ERR Klassikaraadio"
+},
+{
+"url":"https://stream.isn.fm",
+"name":"ISN Radio"
+},
+{
+"url":"http://www.radiohochstift.de/worx/mobile/stream.m3u",
+"name":"Hochstift"
+},
+{
+"url":"http://saw-de-hz-fal-stream07-cluster01.radiohost.de/saw-deutsch_128",
+"name":""
+},
+{
+"url":"http://stream.zenolive.com/quen0vvth4duv.m3u",
+"name":"hit & gold"
+},
+{
+"url":"http://gwp.onlivestreaming.net:9860/stream",
+"name":"GWP Stream"
+},
+{
+"url":"http://192.111.140.6:8546/stream",
+"name":"Luminous Radio"
+},
+{
+"url":"http://stream.srg-ssr.ch/rsp/mp3_128.m3u",
+"name":"Radio Swiss POP"
+},
+{
+"url":"http://radiolippewellehamm.radiovonhier.de/high/stream.mp3",
+"name":"Radio Lippewelle Hamm "
+},
+{
+"url":"http://icecast.err.ee/vikerraadio.ogg.m3u",
+"name":"ERR Vikerraadio"
+},
+{
+"url":"http://icecast.err.ee/raadio4.ogg.m3u",
+"name":"ERR &#1056;&#1072;&#1076;&#1080;&#1086; 4"
+},
+{
+"url":"http://icecast.err.ee/raadiotallinn.ogg.m3u",
+"name":"ERR Raadio Tallinn"
+},
+{
+"url":"http://streams.regenbogen.de/rr-metallica-128-aac",
+"name":"Radio Regenbogen 2 - Metallica Stream"
+},
+{
+"url":"http://stream.freefm.de:8100/listen.pls",
+"name":"Radio FreeFM Ulm"
+},
+{
+"url":"http://mp3.hitradiort1.c.nmdn.net/rt1inthemixhp/livestream.mp3",
+"name":"Hitradio RT1 In The Mix"
+},
+{
+"url":"http://stream.h2radio.de:8000/h2radio.mp3",
+"name":"h2radio.de - das Campusradio aus Magdeburg"
+},
+{
+"url":"http://streaming.radionomy.com/sensuelleradio",
+"name":"web radio pop love"
+},
+{
+"url":"http://stream.srg-ssr.ch/drs2/mp3_128.m3u",
+"name":"SRF 2"
+},
+{
+"url":"http://80er.1077.net/",
+"name":"Die Neue 107.7 - 80er RADIO"
+},
+{
+"url":"http://rrr.sz.xlcdn.com/?account=nice-broadcast-media-gmbh&file=nice-DJ-CHANNEL-128-mp3&type=live&service=icecast&protocol=http&port=8000&output=m3u",
+"name":"Nice Radio"
+},
+{
+"url":"http://avw.mdr.de/streams/284350-0_mp3_high.m3u",
+"name":"MDR Klassik"
+},
+{
+"url":"http://avw.mdr.de/streams/284320-0_mp3_high.m3u",
+"name":"MDR Jump"
+},
+{
+"url":"http://avw.mdr.de/streams/284280-0_mp3_high.m3u",
+"name":"MDR Sachsen"
+},
+{
+"url":"http://modernrock.1077.net/",
+"name":"Die Neue 107.7 - ModernRock"
+},
+{
+"url":"http://stream.laut.fm/path_through_the_forest",
+"name":"Path through the Forest - Obskure Perlen der Musik |"
+},
+{
+"url":"http://live.radioton.de/rt-80.m3u",
+"name":"radioton"
+},
+{
+"url":"http://avw.mdr.de/streams/284310-0_mp3_high.m3u",
+"name":"MDR Kultur"
+},
+{
+"url":"http://avw.mdr.de/streams/284300-0_mp3_high.m3u",
+"name":"MDR Thüringen"
+},
+{
+"url":"http://www.181.fm/winamp.pls?station=181-hardrock&style=&description=The%20Rock!%20(Hard%20Rock)",
+"name":"The Rock!"
+},
+{
+"url":"http://www.181.fm/winamp.pls?station=181-hardrock&style=&description=The%20Rock!%20(Hard%20Rock)&file=181-hardrock.pls",
+"name":"181.fm The Rock! (Hard Rock)"
+},
+{
+"url":"http://streaming.radionomy.com/Alpenradio-Herz?lang=de%2cen%3bq%3d0.5",
+"name":"AlpenradioHerz"
+},
+{
+"url":"http://streaming.radionomy.com/Alpenradio-Volksmusik?lang=de%2cen%3bq%3d0.5",
+"name":"Alpenradio Volksmusik"
+},
+{
+"url":"http://mexxot.ru",
+"name":""
+},
+]
